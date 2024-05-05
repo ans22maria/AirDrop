@@ -1,0 +1,1367 @@
+[2024-05-02T22:43:43.419] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:45:08.996] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:45:30.610] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:48:50.204] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:51:14.131] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:52:43.364] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:52:49.096] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:52:55.849] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:52:59.160] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:53:03.004] [INFO] info - Server is listening on port 8080
+[2024-05-02T22:53:06.736] [INFO] info - Server is listening on port 8080
+[2024-05-03T00:54:28.556] [INFO] info - Server is listening on port 8080
+[2024-05-03T00:57:01.512] [INFO] info - Server is listening on port 8080
+[2024-05-03T00:58:23.931] [INFO] info - Server is listening on port 8080
+[2024-05-03T00:58:38.858] [INFO] info - Server is listening on port 8080
+[2024-05-03T21:14:57.744] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:11:28.811] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:11:34.773] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:20:58.170] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:27:05.658] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:32:58.556] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:39:18.298] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:46:39.100] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:56:00.192] [INFO] info - Server is listening on port 8080
+[2024-05-03T23:56:14.422] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:09:19.116] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:09:36.656] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:36:22.404] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:36:45.414] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:40:41.129] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:40:57.272] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:41:29.854] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:41:29.867] [INFO] info - Connected to MySQL database!
+[2024-05-04T00:41:29.867] [INFO] info - Connected to MySQL database!
+[2024-05-04T00:42:04.960] [INFO] info - Server is listening on port 8080
+[2024-05-04T00:42:04.972] [INFO] info - Connected to MySQL database!
+[2024-05-04T00:42:04.973] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:04:31.933] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:04:31.946] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:04:31.947] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:15:47.617] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:15:47.628] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:15:47.629] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:19:12.834] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:19:12.847] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:19:12.847] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:23:30.785] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:23:30.797] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:23:30.798] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:24:05.263] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:24:05.275] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:24:05.275] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:25:07.602] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:25:07.614] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:25:07.615] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:26:00.703] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:26:00.715] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:26:00.715] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:27:58.797] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:27:58.809] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:27:58.809] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:29:16.329] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:29:16.341] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:29:16.341] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:30:52.746] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:30:52.759] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:30:52.759] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:31:09.977] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:31:09.989] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:31:09.990] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:40:58.304] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:40:58.334] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:40:58.335] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:43:17.661] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:43:17.673] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:43:17.673] [INFO] info - Connected to MySQL database!
+[2024-05-04T10:45:37.341] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:47:16.893] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:47:30.726] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:52:01.059] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:53:18.100] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:55:42.630] [INFO] info - Server is listening on port 8080
+[2024-05-04T10:57:38.602] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:06:55.320] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:11:13.961] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:12:23.170] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:48:24.535] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:48:38.610] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:50:08.824] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:51:28.553] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:51:43.825] [INFO] info - Server is listening on port 8080
+[2024-05-04T11:51:59.252] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:10:05.145] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:15:24.931] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:49:54.508] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:50:50.116] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:51:48.251] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:51:55.674] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:52:50.693] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:53:30.138] [INFO] info - Server is listening on port 8080
+[2024-05-04T12:54:33.490] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:00:33.380] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:01:27.030] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:02:10.518] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:02:39.064] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:06:40.837] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:10:03.648] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:10:26.709] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:16:46.647] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:16:51.403] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:17:24.453] [INFO] info - Connected to MySQL database!
+[2024-05-04T13:17:54.096] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:18:00.191] [INFO] info - Connected to MySQL database!
+[2024-05-04T13:21:17.026] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:24:13.197] [INFO] info - Server is listening on port 8080
+[2024-05-04T13:25:31.770] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:23:48.725] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:24:07.365] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:24:24.251] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:25:09.846] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:27:22.357] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:27:23.417] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:44:36.387] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:44:36.391] [INFO] info - Query results: [object Object]
+[2024-05-04T14:48:31.727] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:53:43.329] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:53:53.663] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:53:53.667] [INFO] info - Query results: [object Object]
+[2024-05-04T14:54:18.704] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:54:40.014] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:54:40.017] [INFO] info - Query results: [object Object]
+[2024-05-04T14:54:57.992] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:55:21.715] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:55:21.718] [INFO] info - Query results: [object Object]
+[2024-05-04T14:55:55.291] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:56:00.914] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:56:00.918] [INFO] info - Query results: [object Object]
+[2024-05-04T14:56:15.012] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:56:15.013] [INFO] info - Query results: [object Object]
+[2024-05-04T14:56:17.586] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:56:17.587] [INFO] info - Query results: [object Object]
+[2024-05-04T14:56:37.548] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:56:40.851] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:56:45.428] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:56:45.431] [INFO] info - Query results: [object Object]
+[2024-05-04T14:56:46.816] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:56:46.818] [INFO] info - Query results: [object Object]
+[2024-05-04T14:56:59.534] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:56:59.536] [INFO] info - Query results: [object Object]
+[2024-05-04T14:57:25.122] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:57:34.815] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:57:34.818] [INFO] info - Query results: [object Object]
+[2024-05-04T14:58:52.234] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:59:42.125] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:59:51.194] [INFO] info - Server is listening on port 8080
+[2024-05-04T14:59:56.384] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:59:56.389] [INFO] info - Query results: [object Object]
+[2024-05-04T14:59:58.968] [INFO] info - Connected to MySQL database!
+[2024-05-04T14:59:58.969] [INFO] info - Query results: [object Object]
+[2024-05-04T15:03:08.375] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:03:08.377] [INFO] info - Query results: [object Object]
+[2024-05-04T15:05:51.165] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:06:47.374] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:06:51.823] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:06:51.827] [INFO] info - Query results: [object Object]
+[2024-05-04T15:06:53.648] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:06:53.666] [INFO] info - Query results: [object Object]
+[2024-05-04T15:06:54.582] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:06:54.583] [INFO] info - Query results: [object Object]
+[2024-05-04T15:07:04.867] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:07:04.868] [INFO] info - Query results: [object Object]
+[2024-05-04T15:07:30.850] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:07:52.921] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:07:52.925] [INFO] info - Query results: [object Object]
+[2024-05-04T15:08:37.952] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:08:58.470] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:08:58.473] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:21.773] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:10:33.017] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:33.020] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:40.029] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:40.031] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:41.164] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:41.165] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:48.696] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:48.714] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:49.285] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:49.286] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:49.464] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:49.465] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:49.620] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:49.621] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:49.772] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:49.774] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:49.918] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:49.919] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:50.064] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:50.065] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:53.591] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:53.592] [INFO] info - Query results: [object Object]
+[2024-05-04T15:10:54.620] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:10:54.620] [INFO] info - Query results: [object Object]
+[2024-05-04T15:11:09.226] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:11:09.227] [INFO] info - Query results: [object Object]
+[2024-05-04T15:12:24.542] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:12:36.425] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:12:36.429] [INFO] info - Query results: [object Object]
+[2024-05-04T15:12:53.587] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:14:11.472] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:14:26.320] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:16:09.822] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:17:18.077] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:17:37.985] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:18:15.580] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:19:56.942] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:20:37.281] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:20:37.284] [INFO] info - Query results: [object Object]
+[2024-05-04T15:24:29.665] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:24:41.549] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:24:41.552] [INFO] info - Query results: [object Object]
+[2024-05-04T15:25:11.210] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:25:23.956] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:25:29.181] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:25:29.184] [INFO] info - Query results: [object Object]
+[2024-05-04T15:26:41.504] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:27:07.811] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:27:07.831] [INFO] info - Query results: [object Object]
+[2024-05-04T15:27:34.304] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:28:20.748] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:28:26.847] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:28:26.852] [INFO] info - Query results: [object Object]
+[2024-05-04T15:28:41.161] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:28:41.181] [INFO] info - Query results: [object Object]
+[2024-05-04T15:28:52.810] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:29:40.060] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:29:53.501] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:29:53.503] [INFO] info - Query results: [object Object],[object Object]
+[2024-05-04T15:32:42.846] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:33:06.107] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:33:19.456] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:33:28.438] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:34:00.933] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:34:09.767] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:34:09.786] [INFO] info - Query results: [object Object]
+[2024-05-04T15:43:44.519] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:43:59.242] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:45:02.689] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:46:16.405] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:46:26.012] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:46:26.015] [INFO] info - Query results: 
+[2024-05-04T15:47:59.477] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:47:59.495] [INFO] info - Query results: 
+[2024-05-04T15:49:15.332] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:49:32.499] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:49:32.502] [INFO] info - Query results: [object Object]
+[2024-05-04T15:49:41.003] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:49:41.004] [INFO] info - Query results: 
+[2024-05-04T15:50:34.574] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:50:42.947] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:50:42.950] [INFO] info - Query results: 
+[2024-05-04T15:52:18.858] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:52:23.854] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:52:23.856] [INFO] info - Query results: 
+[2024-05-04T15:52:43.293] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:52:53.227] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:52:53.230] [INFO] info - Query results: 
+[2024-05-04T15:53:18.144] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:53:30.402] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:53:30.405] [INFO] info - Query results: 
+[2024-05-04T15:53:56.643] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:54:01.353] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:54:01.355] [INFO] info - Query results: 
+[2024-05-04T15:54:09.091] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:54:13.729] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:54:13.731] [INFO] info - Query results: 
+[2024-05-04T15:54:38.172] [INFO] info - Server is listening on port 8080
+[2024-05-04T15:54:44.429] [INFO] info - Connected to MySQL database!
+[2024-05-04T15:54:44.431] [INFO] info - Query results: 
+[2024-05-04T15:54:53.053] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:00:03.628] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:00:19.860] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:00:19.863] [INFO] info - Query results: 
+[2024-05-04T16:00:59.802] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:01:11.433] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:01:25.401] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:01:27.433] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:01:27.437] [INFO] info - Query results: 
+[2024-05-04T16:01:37.669] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:01:37.671] [INFO] info - Query results: 
+[2024-05-04T16:01:49.271] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:02:03.007] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:03:05.611] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:03:05.614] [INFO] info - Query results: [object Object]
+[2024-05-04T16:05:24.078] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:05:28.250] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:05:32.003] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:05:43.246] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:12:30.062] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:14:48.568] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:14:48.571] [INFO] info - Query results: [object Object]
+[2024-05-04T16:15:45.678] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:15:54.722] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:15:54.725] [INFO] info - Query results: [object Object]
+[2024-05-04T16:19:00.600] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:19:14.027] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:19:14.030] [INFO] info - Query results: [object Object]
+[2024-05-04T16:20:30.909] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:20:37.528] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:20:37.531] [INFO] info - Query results: [object Object]
+[2024-05-04T16:22:48.539] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:23:01.329] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:23:01.331] [INFO] info - Query results: [object Object]
+[2024-05-04T16:23:23.770] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:23:32.130] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:23:32.133] [INFO] info - Query results: [object Object]
+[2024-05-04T16:23:52.408] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:24:14.332] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:24:14.335] [INFO] info - Query results: [object Object]
+[2024-05-04T16:26:47.970] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:28:07.804] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:28:07.807] [INFO] info - Query results: [object Object]
+[2024-05-04T16:30:04.717] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:30:17.284] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:30:17.287] [INFO] info - Query results: 
+[2024-05-04T16:30:24.444] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:30:24.445] [INFO] info - Query results: [object Object]
+[2024-05-04T16:32:16.908] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:32:30.410] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:32:30.412] [INFO] info - Query results: [object Object]
+[2024-05-04T16:34:17.747] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:34:17.748] [INFO] info - Query results: [object Object],[object Object]
+[2024-05-04T16:34:44.353] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:34:44.354] [INFO] info - Query results: [object Object]
+[2024-05-04T16:35:40.851] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:35:40.852] [INFO] info - Query results: [object Object]
+[2024-05-04T16:39:46.282] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:40:00.012] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:45:14.938] [INFO] info - Connected to MySQL database!
+[2024-05-04T16:45:14.941] [INFO] info - Query results: [object Object]
+[2024-05-04T16:46:39.811] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:47:56.291] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:48:23.576] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:49:08.228] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:49:42.177] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:49:48.187] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:50:04.766] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:50:54.722] [INFO] info - Server is listening on port 8080
+[2024-05-04T16:54:19.576] [INFO] info - Server is listening on port 8080
+[2024-05-04T17:01:55.883] [INFO] info - Server is listening on port 8080
+[2024-05-04T17:02:35.775] [INFO] info - Server is listening on port 8080
+[2024-05-04T17:03:10.465] [INFO] info - Connected to MySQL database!
+[2024-05-04T17:03:10.468] [INFO] info - Query results: [object Object]
+[2024-05-04T17:04:45.085] [INFO] info - Server is listening on port 8080
+[2024-05-04T17:04:53.337] [INFO] info - Server is listening on port 8080
+[2024-05-04T17:05:21.444] [INFO] info - Server is listening on port 8080
+[2024-05-04T17:05:27.508] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:34:06.911] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:34:58.094] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:35:23.657] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:35:39.236] [INFO] info - Connected to MySQL database!
+[2024-05-04T23:35:39.239] [INFO] info - Query results: [object Object]
+[2024-05-04T23:37:36.806] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:38:17.548] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:40:01.358] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:40:42.044] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:41:35.838] [INFO] info - Connected to MySQL database!
+[2024-05-04T23:41:35.840] [INFO] info - Query results: [object Object]
+[2024-05-04T23:44:26.036] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:45:14.494] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:45:36.487] [INFO] info - Connected to MySQL database!
+[2024-05-04T23:45:36.489] [INFO] info - Query results: [object Object]
+[2024-05-04T23:48:27.536] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:49:03.144] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:50:19.065] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:50:50.288] [INFO] info - Server is listening on port 8080
+[2024-05-04T23:51:34.672] [INFO] info - Connected to MySQL database!
+[2024-05-04T23:51:34.674] [INFO] info - Query results: [object Object]
+[2024-05-04T23:53:13.345] [INFO] info - Connected to MySQL database!
+[2024-05-04T23:53:13.346] [INFO] info - Query results: [object Object]
+[2024-05-04T23:53:24.598] [INFO] info - Connected to MySQL database!
+[2024-05-04T23:53:24.599] [INFO] info - Query results: [object Object]
+[2024-05-05T01:08:14.618] [INFO] info - Server is listening on port 8080
+[2024-05-05T01:08:51.490] [INFO] info - Server is listening on port 8080
+[2024-05-05T01:09:02.192] [INFO] info - Connected to MySQL database!
+[2024-05-05T01:09:02.196] [INFO] info - Query results: [object Object]
+[2024-05-05T01:10:37.401] [INFO] info - Server is listening on port 8080
+[2024-05-05T01:11:19.324] [INFO] info - Connected to MySQL database!
+[2024-05-05T01:11:19.327] [INFO] info - Query results: [object Object]
+[2024-05-05T10:21:00.212] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:22:14.589] [INFO] info - Connected to MySQL database!
+[2024-05-05T10:22:14.623] [INFO] info - Query results: [object Object]
+[2024-05-05T10:23:12.533] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:23:23.511] [INFO] info - Connected to MySQL database!
+[2024-05-05T10:23:23.513] [INFO] info - Query results: [object Object]
+[2024-05-05T10:25:06.289] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:25:29.110] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:25:41.221] [INFO] info - Connected to MySQL database!
+[2024-05-05T10:25:41.224] [INFO] info - Query results: [object Object]
+[2024-05-05T10:26:10.770] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:26:49.437] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:27:11.840] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:27:30.953] [INFO] info - Connected to MySQL database!
+[2024-05-05T10:27:30.956] [INFO] info - Query results: [object Object]
+[2024-05-05T10:29:33.312] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:30:54.005] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:31:11.528] [INFO] info - Connected to MySQL database!
+[2024-05-05T10:31:11.530] [INFO] info - Query results: [object Object]
+[2024-05-05T10:31:46.971] [INFO] info - Server is listening on port 8080
+[2024-05-05T10:32:36.115] [INFO] info - Connected to MySQL database!
+[2024-05-05T10:32:36.118] [INFO] info - Query results: [object Object]
+[2024-05-05T10:34:34.646] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:02:31.408] [INFO] info - Connected to MySQL database!
+[2024-05-05T11:02:31.416] [INFO] info - Query results: [object Object]
+[2024-05-05T11:02:55.989] [INFO] info - Connected to MySQL database!
+[2024-05-05T11:02:55.991] [INFO] info - Query results: [object Object]
+[2024-05-05T11:03:09.867] [INFO] info - Connected to MySQL database!
+[2024-05-05T11:03:09.869] [INFO] info - Query results: [object Object]
+[2024-05-05T11:07:35.966] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:08:06.655] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:08:19.974] [INFO] info - Connected to MySQL database!
+[2024-05-05T11:08:19.977] [INFO] info - Query results: [object Object]
+[2024-05-05T11:09:02.102] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:09:14.493] [INFO] info - Connected to MySQL database!
+[2024-05-05T11:09:14.496] [INFO] info - Query results: [object Object]
+[2024-05-05T11:10:09.244] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:10:59.571] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:12:29.711] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:13:33.559] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:14:20.204] [INFO] info - Server is listening on port 8080
+[2024-05-05T11:27:44.792] [INFO] info - Connected to MySQL database!
+[2024-05-05T11:27:44.795] [INFO] info - Query results: [object Object]
+[2024-05-05T11:29:07.266] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:22:24.223] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:22:49.142] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:22:49.145] [INFO] info - Query results: [object Object]
+[2024-05-05T12:25:09.963] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:26:11.931] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:26:11.934] [INFO] info - Query results: [object Object]
+[2024-05-05T12:28:25.951] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:28:37.958] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:28:37.960] [INFO] info - Query results: [object Object]
+[2024-05-05T12:29:40.278] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:31:26.143] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:31:26.145] [INFO] info - Query results: [object Object]
+[2024-05-05T12:38:37.588] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:38:54.459] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:38:54.461] [INFO] info - Query results: [object Object]
+[2024-05-05T12:39:21.594] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:40:59.096] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:41:32.256] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:41:32.258] [INFO] info - Query results: [object Object]
+[2024-05-05T12:42:02.234] [INFO] info - Connected to MySQL database!
+[2024-05-05T12:42:02.237] [INFO] info - Query results: [object Object]
+[2024-05-05T12:42:41.169] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:46:08.356] [INFO] info - Server is listening on port 8080
+[2024-05-05T12:47:44.955] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:00:23.214] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:00:33.228] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:00:45.282] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:00:53.634] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:01:03.737] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:03:34.913] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:05:02.341] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:21:00.339] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:21:11.035] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:21:26.824] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:21:26.829] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T14:27:26.269] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:28:34.212] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:28:34.215] [INFO] info - Query results: [object Object]
+[2024-05-05T14:29:33.464] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:29:43.969] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:29:43.972] [INFO] info - Query results: [object Object]
+[2024-05-05T14:30:24.394] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:30:35.751] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:30:35.753] [INFO] info - Query results: [object Object]
+[2024-05-05T14:30:43.297] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:30:43.300] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T14:37:05.622] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:37:14.174] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:37:14.177] [INFO] info - Query results: [object Object]
+[2024-05-05T14:37:34.018] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:37:41.487] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:37:41.489] [INFO] info - Query results: [object Object]
+[2024-05-05T14:37:51.212] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:37:51.215] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T14:38:23.121] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:38:23.123] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T14:47:36.167] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:48:01.538] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:48:01.541] [INFO] info - Query results: [object Object]
+[2024-05-05T14:48:07.756] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:48:07.759] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T14:49:21.894] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:49:39.002] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:49:39.005] [INFO] info - Query results: [object Object]
+[2024-05-05T14:49:43.967] [INFO] info - Connected to MySQL database!
+[2024-05-05T14:49:43.970] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T14:55:42.198] [INFO] info - Server is listening on port 8080
+[2024-05-05T14:55:53.721] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:00:13.185] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:00:17.892] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:38:11.252] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:38:11.255] [INFO] info - Query results: [object Object]
+[2024-05-05T15:38:49.484] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:38:49.488] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T15:45:06.858] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:45:06.860] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T15:47:05.878] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:47:35.572] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:47:35.575] [INFO] info - Query results: [object Object]
+[2024-05-05T15:47:39.613] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:47:39.617] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T15:48:05.797] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:48:13.127] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:48:13.130] [INFO] info - Query results: [object Object]
+[2024-05-05T15:48:15.754] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:48:15.757] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T15:48:22.180] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:48:28.879] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:48:28.883] [INFO] info - Query results: [object Object]
+[2024-05-05T15:48:32.171] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:48:32.174] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T15:49:33.419] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:49:33.421] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T15:50:33.376] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:50:43.003] [INFO] info - Connected to MySQL database!
+[2024-05-05T15:50:43.006] [INFO] info - Query results: [object Object]
+[2024-05-05T15:56:32.974] [INFO] info - Server is listening on port 8080
+[2024-05-05T15:56:37.977] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:01:27.661] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:02:05.850] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:02:28.974] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:02:28.977] [INFO] info - Query results: [object Object]
+[2024-05-05T16:02:34.901] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:02:34.904] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:02:42.837] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:02:42.838] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:02:47.441] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:02:47.443] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:03:10.037] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:03:19.114] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:03:19.117] [INFO] info - Query results: [object Object]
+[2024-05-05T16:03:23.468] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:03:23.471] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:03:31.939] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:03:31.940] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:03:37.051] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:03:37.052] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:07:34.372] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:07:42.782] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:07:42.785] [INFO] info - Query results: [object Object]
+[2024-05-05T16:07:49.799] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:08:54.179] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:09:00.002] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:09:10.052] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:09:10.055] [INFO] info - Query results: [object Object]
+[2024-05-05T16:09:13.280] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:09:13.282] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:09:44.591] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:09:44.593] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:09:57.005] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:09:57.007] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:12:21.723] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:12:21.725] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:12:43.710] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:12:43.711] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:13:50.964] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:13:50.965] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:14:08.380] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:14:08.381] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:28:01.298] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:28:01.308] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:29:27.711] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:29:27.712] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:29:36.869] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:29:36.873] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:35:34.826] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:35:34.827] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:35:39.767] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:35:39.769] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T16:35:48.878] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:35:48.880] [INFO] info - Query results: [object Object]
+[2024-05-05T16:40:56.362] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:47:29.568] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:51:17.958] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:51:46.105] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:52:38.877] [INFO] info - Server is listening on port 8080
+[2024-05-05T16:52:52.465] [INFO] info - Connected to MySQL database!
+[2024-05-05T16:52:52.468] [INFO] info - Query results: [object Object]
+[2024-05-05T17:11:40.902] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:11:59.199] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:11:59.201] [INFO] info - Query results: [object Object]
+[2024-05-05T17:18:57.344] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:19:06.919] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:19:06.922] [INFO] info - Query results: [object Object]
+[2024-05-05T17:20:02.646] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:20:17.920] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:20:17.922] [INFO] info - Query results: [object Object]
+[2024-05-05T17:20:45.325] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:20:45.326] [INFO] info - Query results: [object Object]
+[2024-05-05T17:20:49.805] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:20:49.807] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T17:21:00.002] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:21:00.004] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T17:21:37.462] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:21:37.463] [INFO] info - Query results: [object Object]
+[2024-05-05T17:21:40.942] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:21:40.943] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T17:22:16.731] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:22:24.180] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:22:47.003] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:22:47.005] [INFO] info - Query results: [object Object]
+[2024-05-05T17:27:36.019] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:27:42.293] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:28:01.200] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:28:39.768] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:28:39.771] [INFO] info - Query results: [object Object]
+[2024-05-05T17:37:28.734] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:38:22.847] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:38:52.915] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:40:13.514] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:40:22.365] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:40:34.144] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:40:34.146] [INFO] info - Query results: [object Object]
+[2024-05-05T17:40:51.917] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:40:57.987] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:40:57.989] [INFO] info - Query results: [object Object]
+[2024-05-05T17:43:38.729] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:43:44.926] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:44:04.801] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:44:04.803] [INFO] info - Query results: [object Object]
+[2024-05-05T17:44:04.927] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:44:04.931] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T17:54:23.132] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:55:31.961] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:56:33.833] [INFO] info - Server is listening on port 8080
+[2024-05-05T17:56:46.165] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:56:46.167] [INFO] info - Query results: [object Object]
+[2024-05-05T17:56:46.287] [INFO] info - Connected to MySQL database!
+[2024-05-05T17:56:46.289] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:00:43.972] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:00:53.910] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:00:53.912] [INFO] info - Query results: [object Object]
+[2024-05-05T18:00:54.040] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:00:54.043] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:02:47.766] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:03:38.222] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:03:38.224] [INFO] info - Query results: [object Object]
+[2024-05-05T18:03:38.342] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:03:38.344] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:08:29.527] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:11:38.845] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:13:32.981] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:13:37.486] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:13:52.691] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:13:52.693] [INFO] info - Query results: [object Object]
+[2024-05-05T18:13:52.814] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:13:52.817] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:14:43.353] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:15:07.261] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:16:33.054] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:17:36.780] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:18:16.985] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:18:16.987] [INFO] info - Query results: [object Object]
+[2024-05-05T18:18:17.112] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:18:17.115] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:18:49.507] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:18:57.304] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:18:57.307] [INFO] info - Query results: [object Object]
+[2024-05-05T18:18:57.415] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:18:57.419] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:18:59.844] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:20:01.723] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:20:19.182] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:20:21.786] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:21:46.449] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:22:15.127] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:22:23.867] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:22:23.870] [INFO] info - Query results: [object Object]
+[2024-05-05T18:22:23.992] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:22:23.994] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:22:25.908] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:22:57.272] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:23:05.957] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:23:12.226] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:23:12.229] [INFO] info - Query results: [object Object]
+[2024-05-05T18:23:12.384] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:23:12.388] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:23:14.633] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:24:46.741] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:25:18.286] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:25:30.028] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:25:30.030] [INFO] info - Query results: [object Object]
+[2024-05-05T18:25:30.152] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:25:30.154] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:25:32.927] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:27:04.623] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:27:13.354] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:27:13.356] [INFO] info - Query results: [object Object]
+[2024-05-05T18:27:13.482] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:27:13.487] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:27:15.790] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:27:15.791] [INFO] info - Query results: [object Object]
+[2024-05-05T18:28:36.196] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:28:36.197] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:28:38.429] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:28:38.431] [INFO] info - Query results: [object Object]
+[2024-05-05T18:29:57.184] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:29:57.185] [INFO] info - Query results: [object Object]
+[2024-05-05T18:30:02.908] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:30:02.909] [INFO] info - Query results: [object Object]
+[2024-05-05T18:30:15.250] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:30:15.251] [INFO] info - Query results: [object Object]
+[2024-05-05T18:32:07.612] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:32:17.173] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:32:17.175] [INFO] info - Query results: [object Object]
+[2024-05-05T18:32:17.297] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:32:17.299] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:32:19.131] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:32:19.132] [INFO] info - Query results: [object Object]
+[2024-05-05T18:32:22.743] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:32:22.743] [INFO] info - Query results: [object Object]
+[2024-05-05T18:32:26.851] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:32:26.852] [INFO] info - Query results: [object Object]
+[2024-05-05T18:33:03.354] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:33:03.355] [INFO] info - Query results: [object Object]
+[2024-05-05T18:43:57.258] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:47:21.468] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:54:12.006] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:54:16.341] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:54:42.790] [INFO] info - Server is listening on port 8080
+[2024-05-05T18:54:53.287] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:54:53.290] [INFO] info - Query results: [object Object]
+[2024-05-05T18:54:53.419] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:54:53.421] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T18:54:56.181] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:54:56.183] [INFO] info - Query results: [object Object]
+[2024-05-05T18:54:58.278] [INFO] info - Connected to MySQL database!
+[2024-05-05T18:54:58.280] [INFO] info - Query results: [object Object]
+[2024-05-05T18:58:33.088] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:00:18.106] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:01:58.529] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:03:13.547] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:07:55.347] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:08:08.578] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:08:08.580] [INFO] info - Query results: [object Object]
+[2024-05-05T19:08:08.707] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:08:08.709] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:08:13.002] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:08:13.004] [INFO] info - Query results: [object Object]
+[2024-05-05T19:09:13.762] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:09:26.922] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:09:26.925] [INFO] info - Query results: [object Object]
+[2024-05-05T19:09:27.054] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:09:27.056] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:09:29.470] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:09:29.471] [INFO] info - Query results: [object Object]
+[2024-05-05T19:10:13.714] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:10:13.715] [INFO] info - Query results: [object Object]
+[2024-05-05T19:10:52.561] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:11:02.892] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:11:02.894] [INFO] info - Query results: [object Object]
+[2024-05-05T19:11:03.016] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:11:03.018] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:11:05.136] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:11:05.137] [INFO] info - Query results: [object Object]
+[2024-05-05T19:11:07.256] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:11:07.260] [INFO] info - Query results: [object Object]
+[2024-05-05T19:12:08.033] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:19:25.901] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:19:25.903] [INFO] info - Query results: [object Object]
+[2024-05-05T19:19:26.046] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:19:26.049] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:19:28.274] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:19:28.276] [INFO] info - Query results: [object Object]
+[2024-05-05T19:19:30.732] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:19:30.733] [INFO] info - Query results: [object Object]
+[2024-05-05T19:21:45.845] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:21:45.846] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:22:36.333] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:22:44.065] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:22:44.067] [INFO] info - Query results: [object Object]
+[2024-05-05T19:22:44.206] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:22:44.209] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:22:47.287] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:22:47.288] [INFO] info - Query results: [object Object]
+[2024-05-05T19:22:52.544] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:22:52.545] [INFO] info - Query results: [object Object]
+[2024-05-05T19:24:10.651] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:25:25.078] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:25:25.081] [INFO] info - Query results: [object Object]
+[2024-05-05T19:25:25.215] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:25:25.217] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T19:25:28.044] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:25:28.046] [INFO] info - Query results: [object Object]
+[2024-05-05T19:25:30.325] [INFO] info - Connected to MySQL database!
+[2024-05-05T19:25:30.326] [INFO] info - Query results: [object Object]
+[2024-05-05T19:27:35.993] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:29:01.001] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:29:26.522] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:29:54.565] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:29:56.162] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:37:15.459] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:38:17.982] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:38:32.917] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:39:00.883] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:39:14.201] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:41:33.994] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:41:53.712] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:42:48.298] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:43:33.292] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:44:16.726] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:44:28.745] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:45:11.431] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:46:23.589] [INFO] info - Server is listening on port 8080
+[2024-05-05T19:47:30.506] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:27:19.921] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:27:23.676] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:27:28.673] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:29:03.325] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:29:35.073] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:35:47.823] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:35:47.830] [INFO] info - Query results: [object Object]
+[2024-05-05T20:35:47.982] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:35:47.985] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:36:07.027] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:36:07.029] [INFO] info - Query results: [object Object]
+[2024-05-05T20:37:03.973] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:37:03.974] [INFO] info - Query results: [object Object]
+[2024-05-05T20:38:04.907] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:38:04.909] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:38:10.519] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:38:10.521] [INFO] info - Query results: [object Object]
+[2024-05-05T20:38:13.328] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:38:13.329] [INFO] info - Query results: [object Object]
+[2024-05-05T20:38:43.204] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:38:43.205] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:38:51.678] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:38:51.681] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:39:18.813] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:39:18.815] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:39:21.310] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:39:21.311] [INFO] info - Query results: [object Object]
+[2024-05-05T20:39:23.420] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:39:23.421] [INFO] info - Query results: [object Object]
+[2024-05-05T20:40:03.598] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:40:03.598] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:41:03.370] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:41:03.371] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:41:10.966] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:41:10.967] [INFO] info - Query results: [object Object]
+[2024-05-05T20:41:13.441] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:41:13.442] [INFO] info - Query results: [object Object]
+[2024-05-05T20:45:03.171] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:50:01.854] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:52:42.838] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:54:18.996] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:55:02.236] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:55:02.238] [INFO] info - Query results: [object Object]
+[2024-05-05T20:55:02.388] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:55:02.392] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:55:10.116] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:55:10.118] [INFO] info - Query results: [object Object]
+[2024-05-05T20:55:12.545] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:55:12.546] [INFO] info - Query results: [object Object]
+[2024-05-05T20:55:50.338] [INFO] info - Server is listening on port 8080
+[2024-05-05T20:55:58.030] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:55:58.034] [INFO] info - Query results: [object Object]
+[2024-05-05T20:55:58.176] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:55:58.178] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T20:56:07.174] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:56:07.176] [INFO] info - Query results: [object Object]
+[2024-05-05T20:56:09.676] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:56:09.678] [INFO] info - Query results: [object Object]
+[2024-05-05T20:56:18.653] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:56:18.654] [INFO] info - Query results: [object Object]
+[2024-05-05T20:56:21.273] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:56:21.274] [INFO] info - Query results: [object Object]
+[2024-05-05T20:56:34.758] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:56:34.759] [INFO] info - Query results: [object Object]
+[2024-05-05T20:56:38.766] [INFO] info - Connected to MySQL database!
+[2024-05-05T20:56:38.767] [INFO] info - Query results: [object Object]
+[2024-05-05T20:57:49.208] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:00:00.832] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:00:53.192] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:03:34.059] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:03:44.717] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:03:44.719] [INFO] info - Query results: [object Object]
+[2024-05-05T21:03:44.862] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:03:44.865] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:03:50.946] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:03:50.948] [INFO] info - Query results: [object Object]
+[2024-05-05T21:03:53.034] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:03:53.036] [INFO] info - Query results: [object Object]
+[2024-05-05T21:04:01.604] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:04:01.605] [INFO] info - Query results: [object Object]
+[2024-05-05T21:04:04.054] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:04:04.057] [INFO] info - Query results: [object Object]
+[2024-05-05T21:04:40.586] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:04:57.912] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:04:57.917] [INFO] info - Query results: [object Object]
+[2024-05-05T21:04:58.064] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:04:58.068] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:05:00.515] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:05:00.517] [INFO] info - Query results: [object Object]
+[2024-05-05T21:05:02.715] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:05:02.716] [INFO] info - Query results: [object Object]
+[2024-05-05T21:09:33.695] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:09:47.701] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:09:47.704] [INFO] info - Query results: [object Object]
+[2024-05-05T21:09:47.843] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:09:47.845] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:09:54.095] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:09:54.097] [INFO] info - Query results: [object Object]
+[2024-05-05T21:09:56.208] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:09:56.210] [INFO] info - Query results: [object Object]
+[2024-05-05T21:11:04.635] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:11:13.340] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:11:13.343] [INFO] info - Query results: [object Object]
+[2024-05-05T21:11:13.488] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:11:13.491] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:11:18.176] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:11:18.177] [INFO] info - Query results: 
+[2024-05-05T21:11:19.154] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:11:19.155] [INFO] info - Query results: [object Object]
+[2024-05-05T21:11:21.081] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:11:21.082] [INFO] info - Query results: [object Object]
+[2024-05-05T21:12:21.833] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:12:21.834] [INFO] info - Query results: [object Object]
+[2024-05-05T21:12:23.934] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:12:23.935] [INFO] info - Query results: [object Object]
+[2024-05-05T21:12:49.181] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:12:57.459] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:12:57.462] [INFO] info - Query results: [object Object]
+[2024-05-05T21:12:57.590] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:12:57.593] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:13:03.500] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:13:03.502] [INFO] info - Query results: [object Object]
+[2024-05-05T21:13:05.514] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:13:05.515] [INFO] info - Query results: [object Object]
+[2024-05-05T21:13:20.994] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:13:20.996] [INFO] info - Query results: [object Object]
+[2024-05-05T21:13:23.249] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:13:23.250] [INFO] info - Query results: [object Object]
+[2024-05-05T21:14:13.355] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:14:33.569] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:14:33.573] [INFO] info - Query results: [object Object]
+[2024-05-05T21:14:33.713] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:14:33.715] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:14:40.693] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:14:40.695] [INFO] info - Query results: [object Object]
+[2024-05-05T21:14:43.197] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:14:43.198] [INFO] info - Query results: [object Object]
+[2024-05-05T21:15:39.219] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:15:48.203] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:15:48.205] [INFO] info - Query results: [object Object]
+[2024-05-05T21:15:48.377] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:15:48.379] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:15:53.695] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:15:53.697] [INFO] info - Query results: [object Object]
+[2024-05-05T21:15:55.991] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:15:55.992] [INFO] info - Query results: [object Object]
+[2024-05-05T21:16:09.544] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:17:17.622] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:17:21.132] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:17:29.928] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:17:29.930] [INFO] info - Query results: [object Object]
+[2024-05-05T21:17:30.062] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:17:30.066] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:17:36.010] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:17:36.011] [INFO] info - Query results: [object Object]
+[2024-05-05T21:17:38.684] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:17:38.685] [INFO] info - Query results: [object Object]
+[2024-05-05T21:18:03.943] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:18:03.944] [INFO] info - Query results: [object Object]
+[2024-05-05T21:18:06.178] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:18:06.179] [INFO] info - Query results: [object Object]
+[2024-05-05T21:34:55.380] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:43:33.205] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:46:28.459] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:49:33.200] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:49:54.784] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:50:12.618] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:50:21.380] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:50:21.386] [INFO] info - Query results: [object Object]
+[2024-05-05T21:50:21.546] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:50:21.563] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:50:30.447] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:50:30.449] [INFO] info - Query results: [object Object]
+[2024-05-05T21:50:32.707] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:50:32.711] [INFO] info - Query results: [object Object]
+[2024-05-05T21:50:44.221] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:50:44.223] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:51:04.003] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:51:28.084] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:51:56.444] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:52:11.013] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:52:11.015] [INFO] info - Query results: [object Object]
+[2024-05-05T21:52:11.153] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:52:11.156] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:52:16.691] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:52:16.693] [INFO] info - Query results: [object Object]
+[2024-05-05T21:52:18.654] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:52:18.655] [INFO] info - Query results: [object Object]
+[2024-05-05T21:52:53.231] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:53:01.077] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:53:01.079] [INFO] info - Query results: [object Object]
+[2024-05-05T21:53:01.211] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:53:01.215] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:53:06.356] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:53:06.358] [INFO] info - Query results: [object Object]
+[2024-05-05T21:53:08.336] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:53:08.337] [INFO] info - Query results: [object Object]
+[2024-05-05T21:53:14.113] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:53:22.753] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:53:42.403] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:54:10.689] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:54:20.047] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:54:22.290] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:54:29.812] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:54:40.758] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:54:40.761] [INFO] info - Query results: [object Object]
+[2024-05-05T21:54:40.898] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:54:40.900] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:54:45.446] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:54:45.448] [INFO] info - Query results: [object Object]
+[2024-05-05T21:54:47.308] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:54:47.309] [INFO] info - Query results: [object Object]
+[2024-05-05T21:54:52.914] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:55:23.647] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:55:33.703] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:55:33.706] [INFO] info - Query results: [object Object]
+[2024-05-05T21:55:33.838] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:55:33.841] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:55:37.655] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:55:37.656] [INFO] info - Query results: [object Object]
+[2024-05-05T21:55:39.290] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:55:39.292] [INFO] info - Query results: [object Object]
+[2024-05-05T21:55:43.751] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:55:51.859] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:56:03.017] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:56:03.020] [INFO] info - Query results: [object Object]
+[2024-05-05T21:56:03.174] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:56:03.177] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:56:08.618] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:56:08.620] [INFO] info - Query results: [object Object]
+[2024-05-05T21:56:10.378] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:56:10.379] [INFO] info - Query results: [object Object]
+[2024-05-05T21:56:16.689] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:58:36.958] [INFO] info - Server is listening on port 8080
+[2024-05-05T21:58:45.817] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:58:45.819] [INFO] info - Query results: [object Object]
+[2024-05-05T21:58:45.957] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:58:45.959] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T21:58:51.827] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:58:51.829] [INFO] info - Query results: [object Object]
+[2024-05-05T21:58:53.765] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:58:53.766] [INFO] info - Query results: [object Object]
+[2024-05-05T21:58:59.617] [INFO] info - Connected to MySQL database!
+[2024-05-05T21:58:59.620] [INFO] info - Query results: [object Object]
+[2024-05-05T22:01:07.803] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:01:26.376] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:01:26.378] [INFO] info - Query results: [object Object]
+[2024-05-05T22:01:26.507] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:01:26.512] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:01:32.863] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:01:32.864] [INFO] info - Query results: [object Object]
+[2024-05-05T22:01:36.039] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:01:36.040] [INFO] info - Query results: [object Object]
+[2024-05-05T22:01:41.700] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:01:41.702] [INFO] info - Query results: [object Object]
+[2024-05-05T22:02:23.392] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:02:42.960] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:02:42.963] [INFO] info - Query results: [object Object]
+[2024-05-05T22:02:43.109] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:02:43.112] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:02:47.983] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:02:47.984] [INFO] info - Query results: [object Object]
+[2024-05-05T22:02:49.887] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:02:49.889] [INFO] info - Query results: [object Object]
+[2024-05-05T22:02:54.538] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:02:54.541] [INFO] info - Query results: [object Object]
+[2024-05-05T22:03:38.864] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:03:49.195] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:03:49.198] [INFO] info - Query results: [object Object]
+[2024-05-05T22:03:49.344] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:03:49.346] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:03:56.306] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:03:56.308] [INFO] info - Query results: [object Object]
+[2024-05-05T22:03:58.286] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:03:58.287] [INFO] info - Query results: [object Object]
+[2024-05-05T22:04:03.510] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:04:03.513] [INFO] info - Query results: [object Object]
+[2024-05-05T22:04:37.446] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:04:45.478] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:04:45.481] [INFO] info - Query results: [object Object]
+[2024-05-05T22:04:45.629] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:04:45.632] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:04:51.707] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:04:51.708] [INFO] info - Query results: [object Object]
+[2024-05-05T22:04:53.579] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:04:53.580] [INFO] info - Query results: [object Object]
+[2024-05-05T22:05:00.568] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:05:00.570] [INFO] info - Query results: [object Object]
+[2024-05-05T22:06:49.578] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:06:53.206] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:10:49.008] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:11:45.503] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:13:26.808] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:14:12.044] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:14:36.284] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:14:36.287] [INFO] info - Query results: [object Object]
+[2024-05-05T22:14:36.425] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:14:36.432] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:14:53.356] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:15:01.664] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:15:01.667] [INFO] info - Query results: [object Object]
+[2024-05-05T22:15:01.798] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:15:01.804] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:17:08.789] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:17:21.154] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:17:21.157] [INFO] info - Query results: [object Object]
+[2024-05-05T22:17:21.301] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:17:21.307] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:17:27.988] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:17:58.224] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:18:14.788] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:19:19.761] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:19:19.764] [INFO] info - Query results: [object Object]
+[2024-05-05T22:19:19.909] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:19:19.914] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:19:21.840] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:19:21.844] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:19:44.549] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:19:44.550] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:19:46.366] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:19:46.368] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:22:25.281] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:22:55.508] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:24:48.753] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:24:48.757] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:25:14.789] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:25:14.791] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:25:16.659] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:25:16.661] [INFO] info - Query results: [object Object]
+[2024-05-05T22:25:18.619] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:25:18.620] [INFO] info - Query results: [object Object]
+[2024-05-05T22:26:10.279] [INFO] info - Server is listening on port 8080
+[2024-05-05T22:27:35.031] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:27:35.035] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:29:23.540] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:23.542] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:29:26.391] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:26.392] [INFO] info - Query results: [object Object]
+[2024-05-05T22:29:28.221] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:28.222] [INFO] info - Query results: [object Object]
+[2024-05-05T22:29:40.609] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:40.610] [INFO] info - Query results: [object Object]
+[2024-05-05T22:29:40.746] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:40.749] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:29:46.693] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:46.694] [INFO] info - Query results: [object Object]
+[2024-05-05T22:29:48.734] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:48.735] [INFO] info - Query results: [object Object]
+[2024-05-05T22:29:58.530] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:58.534] [INFO] info - Query results: [object Object]
+[2024-05-05T22:29:58.675] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:29:58.681] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:30:08.752] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:08.764] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:30:11.629] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:11.630] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:30:45.984] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:45.985] [INFO] info - Query results: [object Object]
+[2024-05-05T22:30:46.070] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:46.071] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:30:48.610] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:48.612] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:30:54.129] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:54.133] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:30:57.816] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:30:57.817] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:31:00.305] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:31:00.307] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:31:04.829] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:31:04.831] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:31:12.207] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:31:12.209] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:31:16.542] [INFO] info - Connected to MySQL database!
+[2024-05-05T22:31:16.544] [INFO] info - Query results: [object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-05-05T22:59:05.895] [INFO] info - Server is listening on port 8080
+[2024-05-05T23:01:45.529] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:01:45.540] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:03:51.815] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:03:51.822] [INFO] info - Query results: [object Object]
+[2024-05-05T23:04:11.949] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:04:11.952] [INFO] info - Query results: [object Object]
+[2024-05-05T23:04:12.072] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:04:12.073] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:04:46.274] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:04:46.283] [INFO] info - Query results: [object Object]
+[2024-05-05T23:04:54.324] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:04:54.330] [INFO] info - Query results: [object Object]
+[2024-05-05T23:05:04.697] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:05:04.705] [INFO] info - Query results: [object Object]
+[2024-05-05T23:05:26.387] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:05:26.398] [INFO] info - Query results: [object Object]
+[2024-05-05T23:05:26.610] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:05:26.615] [INFO] info - Query results: [object Object]
+[2024-05-05T23:06:09.255] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:09.257] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:11.411] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:11.413] [INFO] info - Query results: [object Object]
+[2024-05-05T23:06:13.196] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:13.198] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:14.734] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:14.738] [INFO] info - Query results: [object Object]
+[2024-05-05T23:06:17.853] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:17.856] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:19.989] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:19.995] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:21.950] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:21.954] [INFO] info - Query results: [object Object]
+[2024-05-05T23:06:24.208] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:24.211] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:42.553] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:42.554] [INFO] info - Query results: [object Object]
+[2024-05-05T23:06:42.682] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:42.685] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:44.705] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:44.707] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:06:46.721] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:06:46.724] [INFO] info - Query results: [object Object]
+[2024-05-05T23:08:12.435] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:08:12.437] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:09:08.811] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:09:08.820] [INFO] info - Query results: [object Object]
+[2024-05-05T23:09:39.854] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:09:39.856] [INFO] info - Query results: [object Object]
+[2024-05-05T23:09:40.031] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:09:40.034] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:09:59.227] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:09:59.233] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:01.727] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:01.730] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:04.736] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:04.740] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:16.531] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:16.537] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:16.708] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:16.711] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:25.522] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:25.526] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:27.350] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:27.353] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:10:29.395] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:29.397] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:10:32.746] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:32.750] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:43.133] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:43.136] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:10:49.273] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:49.277] [INFO] info - Query results: [object Object]
+[2024-05-05T23:10:51.995] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:10:51.999] [INFO] info - Query results: [object Object]
+[2024-05-05T23:12:19.412] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:12:19.416] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:18:26.302] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:18:28.175] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:43:28.552] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:43:28.560] [INFO] info - Query results: [object Object]
+[2024-05-05T23:43:28.686] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:43:28.714] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:43:32.526] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:43:32.529] [INFO] info - Query results: [object Object]
+[2024-05-05T23:43:39.695] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:43:39.696] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:43:56.383] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:43:56.387] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:44:04.169] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:44:04.171] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-05T23:44:09.703] [INFO] info - Connected to MySQL database!
+[2024-05-05T23:44:09.704] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:07:48.334] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:07:48.340] [INFO] info - Query results: [object Object]
+[2024-05-06T00:07:48.480] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:07:48.500] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:16:44.236] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:16:44.241] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:16:46.562] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:16:46.568] [INFO] info - Query results: [object Object]
+[2024-05-06T00:25:21.148] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:25:21.165] [INFO] info - Query results: [object Object]
+[2024-05-06T00:25:44.497] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:25:44.509] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:26:08.536] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:26:08.543] [INFO] info - Query results: [object Object]
+[2024-05-06T00:26:08.665] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:26:08.666] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:26:24.995] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:26:24.998] [INFO] info - Query results: [object Object]
+[2024-05-06T00:27:01.680] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:27:01.683] [INFO] info - Query results: [object Object]
+[2024-05-06T00:27:03.990] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:27:03.992] [INFO] info - Query results: [object Object]
+[2024-05-06T00:27:11.333] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:27:11.335] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:38:34.592] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:38:34.610] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T00:39:05.461] [INFO] info - Connected to MySQL database!
+[2024-05-06T00:39:05.464] [INFO] info - Query results: 
+[2024-05-06T01:57:12.900] [INFO] info - Server is listening on port 443
+[2024-05-06T02:31:18.880] [INFO] info - Server is listening on port 443
+[2024-05-06T02:32:04.973] [INFO] info - Server is listening on port 443
+[2024-05-06T02:34:15.673] [INFO] info - Connected to MySQL database!
+[2024-05-06T02:34:15.752] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T02:52:05.327] [INFO] info - Connected to MySQL database!
+[2024-05-06T02:52:05.347] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T02:52:13.326] [INFO] info - Connected to MySQL database!
+[2024-05-06T02:52:13.335] [INFO] info - Query results: [object Object]
+[2024-05-06T02:52:21.536] [INFO] info - Connected to MySQL database!
+[2024-05-06T02:52:21.543] [INFO] info - Query results: [object Object]
+[2024-05-06T02:53:42.760] [INFO] info - Connected to MySQL database!
+[2024-05-06T02:53:42.765] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:27:52.842] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:27:52.850] [INFO] info - Query results: [object Object]
+[2024-05-06T03:27:53.065] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:27:53.097] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:27:57.629] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:27:57.635] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:28:00.935] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:28:00.946] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:28:23.179] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:28:23.186] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:29:21.121] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:29:21.124] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:35:17.727] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:35:17.742] [INFO] info - Query results: [object Object]
+[2024-05-06T03:35:23.821] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:35:23.826] [INFO] info - Query results: [object Object]
+[2024-05-06T03:36:12.940] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:36:12.966] [INFO] info - Query results: [object Object]
+[2024-05-06T03:36:33.517] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:36:33.520] [INFO] info - Query results: [object Object]
+[2024-05-06T03:36:33.687] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:36:33.690] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:36:48.418] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:36:48.423] [INFO] info - Query results: [object Object]
+[2024-05-06T03:36:51.252] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:36:51.256] [INFO] info - Query results: [object Object]
+[2024-05-06T03:37:03.835] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:37:03.854] [INFO] info - Query results: [object Object]
+[2024-05-06T03:37:04.027] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:37:04.032] [INFO] info - Query results: [object Object]
+[2024-05-06T03:37:14.632] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:37:14.634] [INFO] info - Query results: [object Object]
+[2024-05-06T03:37:18.950] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:37:18.955] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:37:37.687] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:37:37.688] [INFO] info - Query results: [object Object]
+[2024-05-06T03:37:37.811] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:37:37.813] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:38:22.362] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:38:22.372] [INFO] info - Query results: [object Object],[object Object],[object Object]
+[2024-05-06T03:38:38.947] [INFO] info - Connected to MySQL database!
+[2024-05-06T03:38:38.952] [INFO] info - Query results: [object Object],[object Object],[object Object]

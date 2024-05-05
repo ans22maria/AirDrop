@@ -1,0 +1,20 @@
+.login-box {
+  display: grid;
+  place-items: center;
+  height: 40vh;
+}
+.login-page {
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #e9ecef;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100vh;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.login-card-body {
+  width: 360px;
+}

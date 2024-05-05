@@ -1,0 +1,51 @@
+[2024-05-03T23:46:39.107] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-03T23:46:39.108] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-03T23:56:00.201] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-03T23:56:00.202] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-03T23:56:14.430] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-03T23:56:14.431] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-04T00:09:19.124] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-04T00:09:19.124] [ERROR] error - Error connecting to MySQL database: Error: connect ECONNREFUSED 127.0.0.1:3306
+[2024-05-04T00:09:37.160] [ERROR] error - Error connecting to MySQL database: Error: read ECONNRESET
+[2024-05-04T00:09:37.161] [ERROR] error - Error connecting to MySQL database: Error: read ECONNRESET
+[2024-05-04T00:36:22.418] [ERROR] error - Error connecting to MySQL database: Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+[2024-05-04T00:36:22.420] [ERROR] error - Error connecting to MySQL database: Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+[2024-05-04T00:36:45.427] [ERROR] error - Error connecting to MySQL database: Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+[2024-05-04T00:36:45.429] [ERROR] error - Error connecting to MySQL database: Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+[2024-05-04T00:40:41.142] [ERROR] error - Error connecting to MySQL database: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+[2024-05-04T00:40:41.144] [ERROR] error - Error connecting to MySQL database: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+[2024-05-04T00:40:57.285] [ERROR] error - Error connecting to MySQL database: Error: ER_BAD_DB_ERROR: Unknown database 'airdrop'
+[2024-05-04T00:40:57.287] [ERROR] error - Error connecting to MySQL database: Error: ER_BAD_DB_ERROR: Unknown database 'airdrop'
+[2024-05-04T13:17:24.457] [ERROR] error - Error executing query: Error: ER_NO_SUCH_TABLE: Table 'airdrop.your_table_name' doesn't exist
+[2024-05-05T16:07:49.816] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'name.phone_number' in 'field list'
+[2024-05-05T16:07:49.830] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'name.phone_number' in 'field list'
+[2024-05-05T18:18:59.846] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:18:59.848] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:20:19.184] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:20:19.186] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:20:21.787] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:20:21.788] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:22:25.910] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:22:25.912] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:23:14.634] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:23:14.636] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2024-05-05T18:25:32.929] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'Sydney' in 'where clause'
+[2024-05-05T18:25:32.931] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'Sydney' in 'where clause'
+[2024-05-05T19:00:18.107] [ERROR] error - Error executing query: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[2024-05-05T19:00:18.110] [ERROR] error - Error executing query: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[2024-05-05T21:53:14.114] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'seat' in 'field list'
+[2024-05-05T21:53:14.116] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'seat' in 'field list'
+[2024-05-05T21:53:22.754] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'seat' in 'field list'
+[2024-05-05T21:53:22.755] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'seat' in 'field list'
+[2024-05-05T21:54:52.916] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+[2024-05-05T21:54:52.920] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+[2024-05-05T21:55:43.753] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+[2024-05-05T21:55:43.756] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+[2024-05-05T21:56:16.693] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column '2data' in 'field list'
+[2024-05-05T21:56:16.696] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column '2data' in 'field list'
+[2024-05-05T22:17:27.989] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'date' in 'field list'
+[2024-05-05T22:17:27.992] [ERROR] error - Error executing query: Error: ER_BAD_FIELD_ERROR: Unknown column 'date' in 'field list'
+[2024-05-05T23:18:26.314] [ERROR] error - Error executing query: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'XSS')">', '', '', '', '', '', '', 'user')' at line 1
+[2024-05-05T23:18:26.344] [ERROR] error - Error executing query: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'XSS')">', '', '', '', '', '', '', 'user')' at line 1
+[2024-05-05T23:18:28.176] [ERROR] error - Error executing query: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'XSS')">', '', '', '', '', '', '', 'user')' at line 1
+[2024-05-05T23:18:28.185] [ERROR] error - Error executing query: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'XSS')">', '', '', '', '', '', '', 'user')' at line 1

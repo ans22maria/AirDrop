@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('../partials/head'); %>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/dist/css/dataTables.dataTables.css"
+    />
+    <script src="/dist/js/dataTables.js"></script>
+    <script src="/javascript/list-flights.js"></script>
+  </head>
+  <body class="container">
+    <header><%- include('../partials/home-header'); %></header>
+
+    <main>
+      <div class="card-body">
+        <div class="card card-primary">
+          <div class="card-header">
+            <h3 class="card-title">View Flights</h3>
+          </div>
+          <div class="card-body">
+            <table id="flightList" class="display" style="width: 100%">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Flight Name</th>
+                  <th>Boarding Point</th>
+                  <th>Destination</th>
+                  <th>Departure Time</th>
+                  <th>Arrival Time</th>
+                </tr>
+              </thead>
+              <tfoot>
+                <tr>
+                  <th>ID</th>
+                  <th>Flight Name</th>
+                  <th>Boarding Point</th>
+                  <th>Destination</th>
+                  <th>Departure Time</th>
+                  <th>Arrival Time</th>
+                </tr>
+              </tfoot>
+            </table>
+          </div>
+          <div class="card-footer">
+          </br>
+          </div>
+        </div>
+      </div>        
+    </main>
+
+    <footer><%- include('../partials/footer'); %></footer>
+  </body>
+</html>

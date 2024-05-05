@@ -1,0 +1,72 @@
+<head>
+  <title>AirDrop</title>
+  <link rel="stylesheet" type="text/css" href="/css/login.css" />
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="/dist/css/bootstrap4.5.2.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&amp;display=fallback"
+  />
+</head>
+<body class="login-page" style="min-height: 496.797px">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4"></div>
+      <div class="col-sm-4">
+        <div class="login-box centered">
+          <div class="login-logo">
+            <a href="/login"><b><h1>AirDrop</h1></b></a>
+          </div>
+
+          <div class="card">
+            <div class="card-body login-card-body">
+              <p class="login-box-msg">Sign in to start your Booking</p>
+              <form name="login" id="login" action="" method="post">
+                <div class="input-group mb-3">
+                  <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    class="form-control"
+                    placeholder="Email"
+                  />
+                </div>
+                <div class="input-group mb-3">
+                  <input
+                    type="password"
+                    id="password"
+                    name="password"
+                    class="form-control"
+                    placeholder="Password"
+                  />
+                </div>
+                <div class="row">
+                  <div class="col-12">
+                    <button type="submit" class="btn btn-primary btn-block">
+                      Sign In
+                    </button>
+                  </div>
+                </div>
+              </form>
+              <div class="row">
+                <div class="col-12">
+                  <button
+                    type="register"
+                    class="btn btn-primary btn-block"
+                    onclick="location.href='/register'"
+                  >
+                    Register
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4"></div>
+    </div>
+  </div>
+</body>

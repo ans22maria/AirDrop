@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../routes"
+		},
+		{
+			"path": "../serverLogs"
+		},
+		{
+			"path": "../views"
+		},
+		{
+			"path": "../public"
+		}
+	]
+}

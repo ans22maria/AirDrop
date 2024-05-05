@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('../partials/head'); %>
+    <link rel="stylesheet" type="text/css" href="/css/flights.css" />
+    <script src="/javascript/add-flights.js"></script>
+  </head>
+  <body class="container">
+    <header><%- include('../partials/home-header'); %></header>
+
+    <main>
+      <form id="addFlights">
+        <div class="card-body">
+          <div class="card card-primary">
+            <div class="card-header">
+              <h3 class="card-title">Add Flights</h3>
+            </div>
+
+            <div class="card-body">
+              <div class="form-group">
+                <div class="row">
+                  <div class="col-6">
+                    <label for="boardingPoint"
+                      >Boarding Point<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="boardingPoint"
+                      name="boardingPoint"
+                      placeholder="Enter Boarding Point"
+                    />
+                  </div>
+                  <div class="col-6">
+                    <label for="flight-name"
+                      >Destination<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="destination"
+                      name="destination"
+                      placeholder="Enter Destination"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="row">
+                  <div class="col-6">
+                    <label for="flight-name"
+                      >Flight Name<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="flightName"
+                      name="flightName"
+                      placeholder="Enter Flight Name"
+                    />
+                  </div>
+                  <div class="col-6">
+                    <label for="flight-name"
+                      >Flight Type<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="flightType"
+                      name="flightType"
+                      placeholder="Enter Flight Type"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="row">
+                  <div class="col-6">
+                    <label for="departureTime"
+                      >Time of Departure<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="time"
+                      class="form-control"
+                      id="departureTime"
+                      name="departureTime"
+                      placeholder="Enter the departureTime"
+                    />
+                  </div>
+                  <div class="col-6">
+                    <label for="arrivalTime"
+                      >Time of Arrival<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="time"
+                      class="form-control"
+                      id="arrivalTime"
+                      name="arrivalTime"
+                      placeholder="Enter Arrival Time"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="row">
+                  <div class="col-4">
+                    <label for="number-of-seats"
+                      >Number of seats<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="seatCount"
+                      name="seatCount"
+                      placeholder="Enter the number of seats"
+                    />
+                  </div>
+                  <div class="col-4">
+                    <label for="number-of-economy-seats"
+                      >Number of Economy seats<span class="mandatory"
+                        >*</span
+                      ></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="economySeatCount"
+                      name="economySeatCount"
+                      placeholder="Enter the number of Economy seats"
+                    />
+                  </div>
+                  <div class="col-4">
+                    <label for="number-of-business-seats"
+                      >Number of Business seats<span class="mandatory"
+                        >*</span
+                      ></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="businessSeatCount"
+                      name="businessSeatCount"
+                      placeholder="Enter the number of Business seats"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="row">
+                  <div class="col-4">
+                    <label for="cost-of-meal"
+                      >Cost of Meal<span class="mandatory">*</span></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="mealCost"
+                      name="mealCost"
+                      placeholder="Enter the cost of Meal"
+                    />
+                  </div>
+                  <div class="col-4">
+                    <label for="cost-of-economy-seats"
+                      >Cost of Economy seats<span class="mandatory"
+                        >*</span
+                      ></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="economySeatCost"
+                      name="economySeatCost"
+                      placeholder="Enter the cost of Economy seats"
+                    />
+                  </div>
+                  <div class="col-4">
+                    <label for="cost-of-business-seats"
+                      >Cost of Business seats<span class="mandatory"
+                        >*</span
+                      ></label
+                    >
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="businessSeatCost"
+                      name="businessSeatCost"
+                      placeholder="Enter the cost of Business seats"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+          </div>
+        </div>
+      </form>
+      <p><span class="mandatory">*</span> Mandatory Fields.</p>
+    </main>
+
+    <footer><%- include('../partials/footer'); %></footer>
+  </body>
+</html>

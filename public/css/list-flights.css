@@ -1,0 +1,6 @@
+#example tbody td {
+  max-width: 100px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
